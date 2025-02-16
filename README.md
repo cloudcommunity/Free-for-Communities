@@ -8,6 +8,8 @@ A **curated collection of free resources** for **developer groups, tech communit
 
 🌐 The list of free goodies for communities is also available as a website at [FreeForCommunities.com](https://freeforcommunities.com/), making it easier to explore and navigate online.
 
+📰 Stay updated with the latest free resources for startups by subscribing to our **newsletter** at [freeforcommunities.substack.com](https://freeforcommunities.substack.com/).
+
 ## ⭐ Why Star This Repo?
 
 Starring this repository helps more communities discover these free resources. If you find this list useful, please **star the repo** and share it with your network!
