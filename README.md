@@ -6,7 +6,7 @@
 
 A **curated collection of free resources** for **developer groups, tech communities, and user groups**. This repository is initiated by the **Cloud Study Network** community and is actively maintained by its members. Our goal is to help community organizers access **free software, books, tools, and sponsorship opportunities** to support their activities.
 
-🌐 The list of free goodies for communities will soon be available as a website at FreeForCommunities.com, making it easier to explore and navigate online.
+🌐 The list of free goodies for communities is also available as a website at [FreeForCommunities.com](https://freeforcommunities.com/), making it easier to explore and navigate online.
 
 ## ⭐ Why Star This Repo?
 
